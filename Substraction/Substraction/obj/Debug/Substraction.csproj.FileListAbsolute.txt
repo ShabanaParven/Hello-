@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Substraction\Substraction\bin\Debug\Substraction.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Substraction\Substraction\bin\Debug\Substraction.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Substraction\Substraction\bin\Debug\Substraction.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Substraction\Substraction\obj\Debug\Substraction.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Substraction\Substraction\obj\Debug\Substraction.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Substraction\Substraction\obj\Debug\Substraction.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Substraction\Substraction\obj\Debug\Substraction.pdb

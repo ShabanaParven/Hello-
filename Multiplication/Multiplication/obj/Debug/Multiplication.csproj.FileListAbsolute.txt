@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Multiplication\Multiplication\obj\Debug\Multiplication.pdb

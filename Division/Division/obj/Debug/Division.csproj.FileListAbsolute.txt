@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Division\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Division\Division\bin\Debug\Division.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Division\Division\bin\Debug\Division.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Division\Division\bin\Debug\Division.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Division\Division\obj\Debug\Division.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Division\Division\obj\Debug\Division.pdb
