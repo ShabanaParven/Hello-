@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DailyEmployeeWage\DailyEmployeeWage\bin\Debug\DailyEmployeeWage.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DailyEmployeeWage\DailyEmployeeWage\bin\Debug\DailyEmployeeWage.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DailyEmployeeWage\DailyEmployeeWage\bin\Debug\DailyEmployeeWage.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DailyEmployeeWage\DailyEmployeeWage\obj\Debug\DailyEmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DailyEmployeeWage\DailyEmployeeWage\obj\Debug\DailyEmployeeWage.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DailyEmployeeWage\DailyEmployeeWage\obj\Debug\DailyEmployeeWage.pdb

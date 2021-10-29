@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingCaseStatement\EmployeeWageUsingCaseStatement\obj\Debug\EmployeeWageUsingCaseStatement.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingCaseStatement\EmployeeWageUsingCaseStatement\obj\Debug\EmployeeWageUsingCaseStatement.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingCaseStatement\EmployeeWageUsingCaseStatement\bin\Debug\EmployeeWageUsingCaseStatement.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingCaseStatement\EmployeeWageUsingCaseStatement\bin\Debug\EmployeeWageUsingCaseStatement.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingCaseStatement\EmployeeWageUsingCaseStatement\bin\Debug\EmployeeWageUsingCaseStatement.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingCaseStatement\EmployeeWageUsingCaseStatement\obj\Debug\EmployeeWageUsingCaseStatement.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingCaseStatement\EmployeeWageUsingCaseStatement\obj\Debug\EmployeeWageUsingCaseStatement.pdb
