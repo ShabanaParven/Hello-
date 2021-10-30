@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AddPartTimeEmployeeAndWage\AddPartTimeEmployeeAndWage\bin\Debug\AddPartTimeEmployeeAndWage.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AddPartTimeEmployeeAndWage\AddPartTimeEmployeeAndWage\bin\Debug\AddPartTimeEmployeeAndWage.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AddPartTimeEmployeeAndWage\AddPartTimeEmployeeAndWage\bin\Debug\AddPartTimeEmployeeAndWage.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AddPartTimeEmployeeAndWage\AddPartTimeEmployeeAndWage\obj\Debug\AddPartTimeEmployeeAndWage.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AddPartTimeEmployeeAndWage\AddPartTimeEmployeeAndWage\obj\Debug\AddPartTimeEmployeeAndWage.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AddPartTimeEmployeeAndWage\AddPartTimeEmployeeAndWage\obj\Debug\AddPartTimeEmployeeAndWage.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AddPartTimeEmployeeAndWage\AddPartTimeEmployeeAndWage\obj\Debug\AddPartTimeEmployeeAndWage.pdb
