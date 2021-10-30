@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\CalculateWagesForAMonth\CalculateWagesForAMonth\bin\Debug\CalculateWagesForAMonth.exe.config
+C:\Users\pc\source\repos\CalculateWagesForAMonth\CalculateWagesForAMonth\bin\Debug\CalculateWagesForAMonth.exe
+C:\Users\pc\source\repos\CalculateWagesForAMonth\CalculateWagesForAMonth\bin\Debug\CalculateWagesForAMonth.pdb
+C:\Users\pc\source\repos\CalculateWagesForAMonth\CalculateWagesForAMonth\obj\Debug\CalculateWagesForAMonth.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CalculateWagesForAMonth\CalculateWagesForAMonth\obj\Debug\CalculateWagesForAMonth.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CalculateWagesForAMonth\CalculateWagesForAMonth\obj\Debug\CalculateWagesForAMonth.exe
+C:\Users\pc\source\repos\CalculateWagesForAMonth\CalculateWagesForAMonth\obj\Debug\CalculateWagesForAMonth.pdb
