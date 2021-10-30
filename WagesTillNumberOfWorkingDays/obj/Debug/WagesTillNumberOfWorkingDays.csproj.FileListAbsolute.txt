@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\WagesTillNumberOfWorkingDays\WagesTillNumberOfWorkingDays\bin\Debug\WagesTillNumberOfWorkingDays.exe.config
+C:\Users\pc\source\repos\WagesTillNumberOfWorkingDays\WagesTillNumberOfWorkingDays\bin\Debug\WagesTillNumberOfWorkingDays.exe
+C:\Users\pc\source\repos\WagesTillNumberOfWorkingDays\WagesTillNumberOfWorkingDays\bin\Debug\WagesTillNumberOfWorkingDays.pdb
+C:\Users\pc\source\repos\WagesTillNumberOfWorkingDays\WagesTillNumberOfWorkingDays\obj\Debug\WagesTillNumberOfWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WagesTillNumberOfWorkingDays\WagesTillNumberOfWorkingDays\obj\Debug\WagesTillNumberOfWorkingDays.exe
+C:\Users\pc\source\repos\WagesTillNumberOfWorkingDays\WagesTillNumberOfWorkingDays\obj\Debug\WagesTillNumberOfWorkingDays.pdb
