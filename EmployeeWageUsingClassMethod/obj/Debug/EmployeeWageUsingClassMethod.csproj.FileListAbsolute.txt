@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingClassMethod\EmployeeWageUsingClassMethod\obj\Debug\EmployeeWageUsingClassMethod.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingClassMethod\EmployeeWageUsingClassMethod\obj\Debug\EmployeeWageUsingClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingClassMethod\EmployeeWageUsingClassMethod\bin\Debug\EmployeeWageUsingClassMethod.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingClassMethod\EmployeeWageUsingClassMethod\bin\Debug\EmployeeWageUsingClassMethod.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingClassMethod\EmployeeWageUsingClassMethod\bin\Debug\EmployeeWageUsingClassMethod.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingClassMethod\EmployeeWageUsingClassMethod\obj\Debug\EmployeeWageUsingClassMethod.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeWageUsingClassMethod\EmployeeWageUsingClassMethod\obj\Debug\EmployeeWageUsingClassMethod.pdb
