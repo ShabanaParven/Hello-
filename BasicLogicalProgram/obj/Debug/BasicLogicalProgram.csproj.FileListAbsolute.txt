@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BasicLogicalProgram\BasicLogicalProgram\bin\Debug\BasicLogicalProgram.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BasicLogicalProgram\BasicLogicalProgram\bin\Debug\BasicLogicalProgram.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BasicLogicalProgram\BasicLogicalProgram\bin\Debug\BasicLogicalProgram.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\BasicLogicalProgram.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\BasicLogicalProgram.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\BasicLogicalProgram.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\BasicLogicalProgram.pdb
