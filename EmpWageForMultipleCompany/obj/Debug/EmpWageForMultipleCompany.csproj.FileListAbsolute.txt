@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageForMultipleCompany\EmpWageForMultipleCompany\bin\Debug\EmpWageForMultipleCompany.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageForMultipleCompany\EmpWageForMultipleCompany\bin\Debug\EmpWageForMultipleCompany.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageForMultipleCompany\EmpWageForMultipleCompany\bin\Debug\EmpWageForMultipleCompany.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageForMultipleCompany\EmpWageForMultipleCompany\obj\Debug\EmpWageForMultipleCompany.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageForMultipleCompany\EmpWageForMultipleCompany\obj\Debug\EmpWageForMultipleCompany.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageForMultipleCompany\EmpWageForMultipleCompany\obj\Debug\EmpWageForMultipleCompany.pdb
