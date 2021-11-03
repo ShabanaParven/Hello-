@@ -23,7 +23,6 @@ namespace BasicLogicalProgram
             {
                 Console.WriteLine("its not a leap year");
             }
-         
         }
            
     }
