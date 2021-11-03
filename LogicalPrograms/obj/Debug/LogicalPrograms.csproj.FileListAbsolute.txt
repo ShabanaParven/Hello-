@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\LogicalPrograms\LogicalPrograms\bin\Debug\LogicalPrograms.exe.config
+C:\Users\pc\source\repos\LogicalPrograms\LogicalPrograms\bin\Debug\LogicalPrograms.exe
+C:\Users\pc\source\repos\LogicalPrograms\LogicalPrograms\bin\Debug\LogicalPrograms.pdb
+C:\Users\pc\source\repos\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.exe
+C:\Users\pc\source\repos\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.pdb
