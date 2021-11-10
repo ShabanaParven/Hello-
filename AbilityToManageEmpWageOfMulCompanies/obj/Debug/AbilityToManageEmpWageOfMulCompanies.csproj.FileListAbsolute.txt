@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AbilityToManageEmpWageOfMulCompanies\AbilityToManageEmpWageOfMulCompanies\bin\Debug\AbilityToManageEmpWageOfMulCompanies.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AbilityToManageEmpWageOfMulCompanies\AbilityToManageEmpWageOfMulCompanies\bin\Debug\AbilityToManageEmpWageOfMulCompanies.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AbilityToManageEmpWageOfMulCompanies\AbilityToManageEmpWageOfMulCompanies\bin\Debug\AbilityToManageEmpWageOfMulCompanies.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AbilityToManageEmpWageOfMulCompanies\AbilityToManageEmpWageOfMulCompanies\obj\Debug\AbilityToManageEmpWageOfMulCompanies.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AbilityToManageEmpWageOfMulCompanies\AbilityToManageEmpWageOfMulCompanies\obj\Debug\AbilityToManageEmpWageOfMulCompanies.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AbilityToManageEmpWageOfMulCompanies\AbilityToManageEmpWageOfMulCompanies\obj\Debug\AbilityToManageEmpWageOfMulCompanies.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AbilityToManageEmpWageOfMulCompanies\AbilityToManageEmpWageOfMulCompanies\obj\Debug\AbilityToManageEmpWageOfMulCompanies.pdb
