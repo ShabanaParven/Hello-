@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageAndTotalWageByCompanu\EmpWageAndTotalWageByCompanu\bin\Debug\EmpWageAndTotalWageByCompanu.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageAndTotalWageByCompanu\EmpWageAndTotalWageByCompanu\bin\Debug\EmpWageAndTotalWageByCompanu.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageAndTotalWageByCompanu\EmpWageAndTotalWageByCompanu\bin\Debug\EmpWageAndTotalWageByCompanu.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageAndTotalWageByCompanu\EmpWageAndTotalWageByCompanu\obj\Debug\EmpWageAndTotalWageByCompanu.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageAndTotalWageByCompanu\EmpWageAndTotalWageByCompanu\obj\Debug\EmpWageAndTotalWageByCompanu.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageAndTotalWageByCompanu\EmpWageAndTotalWageByCompanu\obj\Debug\EmpWageAndTotalWageByCompanu.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\EmpWageAndTotalWageByCompanu\EmpWageAndTotalWageByCompanu\obj\Debug\EmpWageAndTotalWageByCompanu.pdb
