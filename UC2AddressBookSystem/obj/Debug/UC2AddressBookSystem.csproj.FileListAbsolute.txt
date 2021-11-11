@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UC2AddressBookSystem\UC2AddressBookSystem\bin\Debug\UC2AddressBookSystem.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UC2AddressBookSystem\UC2AddressBookSystem\bin\Debug\UC2AddressBookSystem.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UC2AddressBookSystem\UC2AddressBookSystem\bin\Debug\UC2AddressBookSystem.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UC2AddressBookSystem\UC2AddressBookSystem\obj\Debug\UC2AddressBookSystem.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UC2AddressBookSystem\UC2AddressBookSystem\obj\Debug\UC2AddressBookSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UC2AddressBookSystem\UC2AddressBookSystem\obj\Debug\UC2AddressBookSystem.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UC2AddressBookSystem\UC2AddressBookSystem\obj\Debug\UC2AddressBookSystem.pdb
