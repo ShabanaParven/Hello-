@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AdressBookSystem\AdressBookSystem\bin\Debug\AdressBookSystem.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AdressBookSystem\AdressBookSystem\bin\Debug\AdressBookSystem.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AdressBookSystem\AdressBookSystem\bin\Debug\AdressBookSystem.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AdressBookSystem\AdressBookSystem\obj\Debug\AdressBookSystem.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AdressBookSystem\AdressBookSystem\obj\Debug\AdressBookSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AdressBookSystem\AdressBookSystem\obj\Debug\AdressBookSystem.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\AdressBookSystem\AdressBookSystem\obj\Debug\AdressBookSystem.pdb
