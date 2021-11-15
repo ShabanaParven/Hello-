@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\InventoryManagementProgram.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\InventoryManagementProgram.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\InventoryManagementProgram.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\InventoryManagementProgram.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\InventoryManagementProgram.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\Fellowship Program\Hello-\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\Fellowship Program\Hello-\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\InventoryManagementProgram.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\InventoryManagementProgram.pdb
