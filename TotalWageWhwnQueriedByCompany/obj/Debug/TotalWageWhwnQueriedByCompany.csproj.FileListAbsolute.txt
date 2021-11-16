@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\TotalWageWhwnQueriedByCompany.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\TotalWageWhwnQueriedByCompany.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\bin\Debug\TotalWageWhwnQueriedByCompany.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\bin\Debug\TotalWageWhwnQueriedByCompany.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\bin\Debug\TotalWageWhwnQueriedByCompany.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\TotalWageWhwnQueriedByCompany.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\TotalWageWhwnQueriedByCompany.pdb
