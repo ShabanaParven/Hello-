@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\bin\Debug\netcoreapp3.1\Additon.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\bin\Debug\netcoreapp3.1\Additon.deps.json
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\bin\Debug\netcoreapp3.1\Additon.runtimeconfig.json
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\bin\Debug\netcoreapp3.1\Additon.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\bin\Debug\netcoreapp3.1\Additon.dll
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\bin\Debug\netcoreapp3.1\Additon.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\obj\Debug\netcoreapp3.1\Additon.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\obj\Debug\netcoreapp3.1\Additon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\obj\Debug\netcoreapp3.1\Additon.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\obj\Debug\netcoreapp3.1\Additon.AssemblyInfo.cs
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\obj\Debug\netcoreapp3.1\Additon.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\obj\Debug\netcoreapp3.1\Additon.dll
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\obj\Debug\netcoreapp3.1\Additon.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Additon\Additon\obj\Debug\netcoreapp3.1\Additon.genruntimeconfig.cache
