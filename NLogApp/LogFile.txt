@@ -1,0 +1,6 @@
+﻿2021-11-13 03:40:44.4407|INFO|NLogApp.NLog|Additio method executed
+2021-11-13 03:40:44.4627|DEBUG|NLogApp.NLog|Debug successfully
+2021-11-13 03:40:44.4627|WARN|NLogApp.NLog|first number or second number is not equal to zero
+2021-11-15 23:33:25.3775|INFO|NLogApp.NLog|Additio method executed
+2021-11-15 23:33:25.4235|DEBUG|NLogApp.NLog|Debug successfully
+2021-11-15 23:33:25.4235|WARN|NLogApp.NLog|first number or second number is not equal to zero
