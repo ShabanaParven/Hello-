@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeStrings\MaximunOfThreeStrings\bin\Debug\MaximunOfThreeStrings.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeStrings\MaximunOfThreeStrings\bin\Debug\MaximunOfThreeStrings.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeStrings\MaximunOfThreeStrings\bin\Debug\MaximunOfThreeStrings.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeStrings\MaximunOfThreeStrings\obj\Debug\MaximunOfThreeStrings.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeStrings\MaximunOfThreeStrings\obj\Debug\MaximunOfThreeStrings.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeStrings\MaximunOfThreeStrings\obj\Debug\MaximunOfThreeStrings.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeStrings\MaximunOfThreeStrings\obj\Debug\MaximunOfThreeStrings.pdb
