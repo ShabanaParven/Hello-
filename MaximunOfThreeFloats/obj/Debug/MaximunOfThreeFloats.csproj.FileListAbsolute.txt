@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeFloats\MaximunOfThreeFloats\bin\Debug\MaximunOfThreeFloats.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeFloats\MaximunOfThreeFloats\bin\Debug\MaximunOfThreeFloats.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeFloats\MaximunOfThreeFloats\bin\Debug\MaximunOfThreeFloats.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeFloats\MaximunOfThreeFloats\obj\Debug\MaximunOfThreeFloats.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeFloats\MaximunOfThreeFloats\obj\Debug\MaximunOfThreeFloats.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeFloats\MaximunOfThreeFloats\obj\Debug\MaximunOfThreeFloats.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeFloats\MaximunOfThreeFloats\obj\Debug\MaximunOfThreeFloats.pdb
