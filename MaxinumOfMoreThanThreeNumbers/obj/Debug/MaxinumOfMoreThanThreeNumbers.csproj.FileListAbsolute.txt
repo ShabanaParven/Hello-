@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaxinumOfMoreThanThreeNumbers\MaxinumOfMoreThanThreeNumbers\bin\Debug\MaxinumOfMoreThanThreeNumbers.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaxinumOfMoreThanThreeNumbers\MaxinumOfMoreThanThreeNumbers\bin\Debug\MaxinumOfMoreThanThreeNumbers.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaxinumOfMoreThanThreeNumbers\MaxinumOfMoreThanThreeNumbers\bin\Debug\MaxinumOfMoreThanThreeNumbers.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaxinumOfMoreThanThreeNumbers\MaxinumOfMoreThanThreeNumbers\obj\Debug\MaxinumOfMoreThanThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaxinumOfMoreThanThreeNumbers\MaxinumOfMoreThanThreeNumbers\obj\Debug\MaxinumOfMoreThanThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaxinumOfMoreThanThreeNumbers\MaxinumOfMoreThanThreeNumbers\obj\Debug\MaxinumOfMoreThanThreeNumbers.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaxinumOfMoreThanThreeNumbers\MaxinumOfMoreThanThreeNumbers\obj\Debug\MaxinumOfMoreThanThreeNumbers.pdb
