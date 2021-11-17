@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximumGenericThreeVariablesNo\MaximumGenericThreeVariablesNo\obj\Debug\MaximumGenericThreeVariablesNo.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximumGenericThreeVariablesNo\MaximumGenericThreeVariablesNo\obj\Debug\MaximumGenericThreeVariablesNo.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximumGenericThreeVariablesNo\MaximumGenericThreeVariablesNo\bin\Debug\MaximumGenericThreeVariablesNo.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximumGenericThreeVariablesNo\MaximumGenericThreeVariablesNo\bin\Debug\MaximumGenericThreeVariablesNo.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximumGenericThreeVariablesNo\MaximumGenericThreeVariablesNo\bin\Debug\MaximumGenericThreeVariablesNo.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximumGenericThreeVariablesNo\MaximumGenericThreeVariablesNo\obj\Debug\MaximumGenericThreeVariablesNo.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximumGenericThreeVariablesNo\MaximumGenericThreeVariablesNo\obj\Debug\MaximumGenericThreeVariablesNo.pdb
