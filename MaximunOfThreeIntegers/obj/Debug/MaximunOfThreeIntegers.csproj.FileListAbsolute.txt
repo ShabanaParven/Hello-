@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeIntegers\MaximunOfThreeIntegers\bin\Debug\MaximunOfThreeIntegers.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeIntegers\MaximunOfThreeIntegers\bin\Debug\MaximunOfThreeIntegers.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeIntegers\MaximunOfThreeIntegers\bin\Debug\MaximunOfThreeIntegers.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\MaximunOfThreeIntegers.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\MaximunOfThreeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\MaximunOfThreeIntegers.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\MaximunOfThreeIntegers.pdb
