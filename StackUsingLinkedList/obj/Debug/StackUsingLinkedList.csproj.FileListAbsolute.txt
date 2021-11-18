@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\StackUsingLinkedList.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\StackUsingLinkedList.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\StackUsingLinkedList\StackUsingLinkedList\bin\Debug\StackUsingLinkedList.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\StackUsingLinkedList\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.pdb
