@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PerformPeekAndPopToStack\PerformPeekAndPopToStack\bin\Debug\PerformPeekAndPopToStack.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PerformPeekAndPopToStack\PerformPeekAndPopToStack\bin\Debug\PerformPeekAndPopToStack.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PerformPeekAndPopToStack\PerformPeekAndPopToStack\bin\Debug\PerformPeekAndPopToStack.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PerformPeekAndPopToStack\PerformPeekAndPopToStack\obj\Debug\PerformPeekAndPopToStack.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PerformPeekAndPopToStack\PerformPeekAndPopToStack\obj\Debug\PerformPeekAndPopToStack.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PerformPeekAndPopToStack\PerformPeekAndPopToStack\obj\Debug\PerformPeekAndPopToStack.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PerformPeekAndPopToStack\PerformPeekAndPopToStack\obj\Debug\PerformPeekAndPopToStack.pdb
