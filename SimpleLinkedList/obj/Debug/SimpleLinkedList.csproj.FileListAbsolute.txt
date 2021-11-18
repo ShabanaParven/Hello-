@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\SimpleLinkedList\SimpleLinkedList\obj\Debug\SimpleLinkedList.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\SimpleLinkedList\SimpleLinkedList\obj\Debug\SimpleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\SimpleLinkedList\SimpleLinkedList\bin\Debug\SimpleLinkedList.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\SimpleLinkedList\SimpleLinkedList\bin\Debug\SimpleLinkedList.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\SimpleLinkedList\SimpleLinkedList\bin\Debug\SimpleLinkedList.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\SimpleLinkedList\SimpleLinkedList\obj\Debug\SimpleLinkedList.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\SimpleLinkedList\SimpleLinkedList\obj\Debug\SimpleLinkedList.pdb
