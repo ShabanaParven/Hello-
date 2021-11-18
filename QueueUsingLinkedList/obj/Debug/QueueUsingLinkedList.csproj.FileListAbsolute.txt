@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\QueueUsingLinkedList.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\QueueUsingLinkedList.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\QueueUsingLinkedList.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\QueueUsingLinkedList.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\QueueUsingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\QueueUsingLinkedList.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\QueueUsingLinkedList.pdb
