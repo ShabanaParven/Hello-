@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DeleeTheFirstElementInList\DeleeTheFirstElementInList\bin\Debug\DeleeTheFirstElementInList.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DeleeTheFirstElementInList\DeleeTheFirstElementInList\bin\Debug\DeleeTheFirstElementInList.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DeleeTheFirstElementInList\DeleeTheFirstElementInList\bin\Debug\DeleeTheFirstElementInList.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DeleeTheFirstElementInList\DeleeTheFirstElementInList\obj\Debug\DeleeTheFirstElementInList.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DeleeTheFirstElementInList\DeleeTheFirstElementInList\obj\Debug\DeleeTheFirstElementInList.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DeleeTheFirstElementInList\DeleeTheFirstElementInList\obj\Debug\DeleeTheFirstElementInList.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\DeleeTheFirstElementInList\DeleeTheFirstElementInList\obj\Debug\DeleeTheFirstElementInList.pdb
