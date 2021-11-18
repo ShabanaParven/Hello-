@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\PerformDequeue\PerformDequeue\bin\Debug\PerformDequeue.exe.config
+C:\Users\pc\source\repos\PerformDequeue\PerformDequeue\bin\Debug\PerformDequeue.exe
+C:\Users\pc\source\repos\PerformDequeue\PerformDequeue\bin\Debug\PerformDequeue.pdb
+C:\Users\pc\source\repos\PerformDequeue\PerformDequeue\obj\Debug\PerformDequeue.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\PerformDequeue\PerformDequeue\obj\Debug\PerformDequeue.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PerformDequeue\PerformDequeue\obj\Debug\PerformDequeue.exe
+C:\Users\pc\source\repos\PerformDequeue\PerformDequeue\obj\Debug\PerformDequeue.pdb
