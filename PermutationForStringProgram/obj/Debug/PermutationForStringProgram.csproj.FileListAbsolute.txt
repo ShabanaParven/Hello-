@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PermutationForStringProgram\PermutationForStringProgram\bin\Debug\PermutationForStringProgram.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PermutationForStringProgram\PermutationForStringProgram\bin\Debug\PermutationForStringProgram.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PermutationForStringProgram\PermutationForStringProgram\bin\Debug\PermutationForStringProgram.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\PermutationForStringProgram.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\PermutationForStringProgram.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\PermutationForStringProgram.pdb
