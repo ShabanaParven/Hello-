@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MergeSortProgram\MergeSortProgram\bin\Debug\MergeSortProgram.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MergeSortProgram\MergeSortProgram\bin\Debug\MergeSortProgram.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MergeSortProgram\MergeSortProgram\bin\Debug\MergeSortProgram.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MergeSortProgram\MergeSortProgram\obj\Debug\MergeSortProgram.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MergeSortProgram\MergeSortProgram\obj\Debug\MergeSortProgram.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MergeSortProgram\MergeSortProgram\obj\Debug\MergeSortProgram.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MergeSortProgram\MergeSortProgram\obj\Debug\MergeSortProgram.csproj.AssemblyReference.cache
