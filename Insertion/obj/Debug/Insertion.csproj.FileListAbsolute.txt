@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Insertion\Insertion\bin\Debug\Insertion.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Insertion\Insertion\bin\Debug\Insertion.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Insertion\Insertion\bin\Debug\Insertion.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Insertion\Insertion\obj\Debug\Insertion.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Insertion\Insertion\obj\Debug\Insertion.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Insertion\Insertion\obj\Debug\Insertion.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Insertion\Insertion\obj\Debug\Insertion.pdb
