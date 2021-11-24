@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
