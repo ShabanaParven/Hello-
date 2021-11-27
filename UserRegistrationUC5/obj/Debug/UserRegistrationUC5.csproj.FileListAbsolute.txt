@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC5\UserRegistrationUC5\bin\Debug\UserRegistrationUC5.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC5\UserRegistrationUC5\bin\Debug\UserRegistrationUC5.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC5\UserRegistrationUC5\bin\Debug\UserRegistrationUC5.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC5\UserRegistrationUC5\obj\Debug\UserRegistrationUC5.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC5\UserRegistrationUC5\obj\Debug\UserRegistrationUC5.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC5\UserRegistrationUC5\obj\Debug\UserRegistrationUC5.pdb
