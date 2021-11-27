@@ -20,7 +20,7 @@ namespace EmployeeCheck
             }
             else
             {
-                Console.WriteLine("Employee is present");
+                Console.WriteLine("Employee is not present");
                 Console.ReadKey();
             }
         }
