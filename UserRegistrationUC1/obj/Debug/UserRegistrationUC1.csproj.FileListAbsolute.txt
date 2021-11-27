@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC1\UserRegistrationUC1\bin\Debug\UserRegistrationUC1.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC1\UserRegistrationUC1\bin\Debug\UserRegistrationUC1.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC1\UserRegistrationUC1\bin\Debug\UserRegistrationUC1.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC1\UserRegistrationUC1\obj\Debug\UserRegistrationUC1.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC1\UserRegistrationUC1\obj\Debug\UserRegistrationUC1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC1\UserRegistrationUC1\obj\Debug\UserRegistrationUC1.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\UserRegistrationUC1\UserRegistrationUC1\obj\Debug\UserRegistrationUC1.pdb
