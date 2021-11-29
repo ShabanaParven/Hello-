@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MoodAnalyzerUC1\MoodAnalyzerUC1\bin\Debug\MoodAnalyzerUC1.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MoodAnalyzerUC1\MoodAnalyzerUC1\bin\Debug\MoodAnalyzerUC1.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MoodAnalyzerUC1\MoodAnalyzerUC1\bin\Debug\MoodAnalyzerUC1.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MoodAnalyzerUC1\MoodAnalyzerUC1\obj\Debug\MoodAnalyzerUC1.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MoodAnalyzerUC1\MoodAnalyzerUC1\obj\Debug\MoodAnalyzerUC1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MoodAnalyzerUC1\MoodAnalyzerUC1\obj\Debug\MoodAnalyzerUC1.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\MoodAnalyzerUC1\MoodAnalyzerUC1\obj\Debug\MoodAnalyzerUC1.pdb
