@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BinarySearchTreeUC2\BinarySearchTreeUC2\bin\Debug\BinarySearchTreeUC2.exe.config
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BinarySearchTreeUC2\BinarySearchTreeUC2\bin\Debug\BinarySearchTreeUC2.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BinarySearchTreeUC2\BinarySearchTreeUC2\bin\Debug\BinarySearchTreeUC2.pdb
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BinarySearchTreeUC2\BinarySearchTreeUC2\obj\Debug\BinarySearchTreeUC2.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BinarySearchTreeUC2\BinarySearchTreeUC2\obj\Debug\BinarySearchTreeUC2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BinarySearchTreeUC2\BinarySearchTreeUC2\obj\Debug\BinarySearchTreeUC2.exe
+C:\Users\pc\source\repos\Fellowship Program\Hello-\BinarySearchTreeUC2\BinarySearchTreeUC2\obj\Debug\BinarySearchTreeUC2.pdb
