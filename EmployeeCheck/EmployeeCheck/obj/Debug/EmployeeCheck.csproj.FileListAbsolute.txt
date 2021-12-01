@@ -1,7 +1,0 @@
-C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeCheck\EmployeeCheck\bin\Debug\EmployeeCheck.exe.config
-C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeCheck\EmployeeCheck\bin\Debug\EmployeeCheck.exe
-C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeCheck\EmployeeCheck\bin\Debug\EmployeeCheck.pdb
-C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeCheck\EmployeeCheck\obj\Debug\EmployeeCheck.csproj.AssemblyReference.cache
-C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeCheck\EmployeeCheck\obj\Debug\EmployeeCheck.csproj.CoreCompileInputs.cache
-C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeCheck\EmployeeCheck\obj\Debug\EmployeeCheck.exe
-C:\Users\pc\source\repos\Fellowship Program\Hello-\EmployeeCheck\EmployeeCheck\obj\Debug\EmployeeCheck.pdb
